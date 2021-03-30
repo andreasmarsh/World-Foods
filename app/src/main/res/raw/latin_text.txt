@@ -1,0 +1,7 @@
+Many great Street Foods can be found all across Latin America. My app will give your recipes for Mexican-Style Street Corn (Elote), Sopes De Hongos, and Cholados Colombianos (Colombian Cholados).
+
+Mexican street food, called antojitos (literally "little cravings"), is prepared by street vendors and at small traditional markets in Mexico. One example of this is street corn called Elote. Elote refers to fresh corn which is served on the cob or cut kernels. If on the cob is it either grilled or boiled then coated with mayonnaise and dusted with any of the following: chili pepper, salt, cotija cheese, lime juice and hot sauce.
+
+A sope is a traditional Mexican dish consisting of a fried masa base with savory toppings. Also known as picadita (in Tierra Caliente, Guerrero), it originates in the central and southern parts of Mexico, where it was sometimes first known as pellizcadas. It is an antojito, which at first sight looks like an unusually thick tortilla with vegetables and meat toppings.
+
+Cholado is a cross between a frozen dessert, fruit cocktail, and a drink, and derives from El Valle region of Colombia. It is made with crushed ice, fresh fruit, condensed milk, passion fruit (maracuyá), and Colombian blackberry (mora) syrup, and is topped with shredded coconut and a maraschino cherry. It makes a wonderful summer dessert!

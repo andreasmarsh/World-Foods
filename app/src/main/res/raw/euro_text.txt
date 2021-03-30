@@ -1,0 +1,7 @@
+Many great Street Foods can be found all across Europe. My app will give your recipes for Currywursts, Patatas Bravas, and Stroopwafels.
+
+Currywursts were created in postwar Berlin in 1949. They originated as a "poor man's steak", cobbled together using sausages, canned tomatoes, and curry powder. Today Currywursts can be found everywhere along german city streets, being the most popular street food in Berlin.
+
+Patatas bravas are one of Spain’s most popular tapas. They’re the go-to choice for an appetizer or a snack to share along with a round of cañas. The reason is simple: there’s no greater crowdpleaser than a plate of deep-fried potatoes topped with a delicious sauce, especially when alcohol is involved.
+
+A stroopwafel (literally "syrup waffle") is a wafer cookie made from two thin layers of baked dough joined by a caramel filling. First made in the Dutch city of Gouda, stroopwafels are popular throughout the Netherlands and the former Dutch Empire and are well-known Dutch dishes.
